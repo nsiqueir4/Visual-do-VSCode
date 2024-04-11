@@ -1,3 +1,4 @@
+É preciso dar Ctrl+SHIFT+P e digitar "Settings". o arquivo que tivar "JSON" no final é para você abrir. 
 {
     "files.autoSave": "afterDelay",
     "workbench.colorTheme": "Min Dark",
